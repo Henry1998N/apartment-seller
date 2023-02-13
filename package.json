@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "handlebars-intl": "^1.1.2"
+  }
+}
